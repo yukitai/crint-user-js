@@ -1,6 +1,6 @@
 # Crint: an extensible and highly configurable Scratch linter for TurboWarp
 
-## installation
+## Installation
 
 - Install Tampermonkey on your browser.
 
